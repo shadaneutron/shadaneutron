@@ -2,7 +2,7 @@
 
 ### AI Student • Full-Stack Developer • Startup Builder
 
-Building intelligent systems for healthcare, productivity, and real-world impact.
+Building intelligent systems for help people, and real-world impact.
 
 ---
 
